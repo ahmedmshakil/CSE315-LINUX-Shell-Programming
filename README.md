@@ -12,4 +12,12 @@ H. Write a shell program to print the Fibonnaci series upto n numbers.<br>
 I. Write a shell program to check the given number is palindrome or not.<br>
 J. Write a shell program to calculate the sum of the digit of a given number.<br>
 K. Write a shell program to find the revese of the given number.<br>
-L. Write a shell program to check the given number is prime or not.<br>
+L. Write a shell program to check the given number is prime or not.<br><br>
+
+
+## Author
+
+👤 **Shakil Ahmed**
+
+* LinkedIn: [@ahmedmshakil](https://www.linkedin.com/in/ahmedmshakil/)
+* GitHub: [@ahmedmshakil](https://github.com/ahmedmshakil)
