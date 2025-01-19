@@ -1,17 +1,20 @@
 
 ## Run on Terminal
 
+
+- to run my script.sh
+- 1st you need to give write permission by using this command:
 ```sh
-- to run my sript .sh 
-- 1st you need to give write permission by using this command
-- sudo chmod +x myscript.sh
-- see the permission : ls -la
-- is its -x then run:
-- ./myscript.sh
-
-
+sudo chmod +x myscript.sh
 ```
-
+- see the permission :
+```sh
+ls -la
+```
+- if its -x then run:
+```sh
+./myscript.sh
+```
 
 
 
